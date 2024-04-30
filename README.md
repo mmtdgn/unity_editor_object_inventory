@@ -6,4 +6,4 @@ An object inventory system where we can categorize our assets. In this way, we c
 
 | SO & Prefab | Scene |
 |----|---|
-|<img src="/.github/Resources/OI1.png">|<img src="/.github/Resources/OI2.png">|
+|<img src="/Resources/OI1.png">|<img src="/Resources/OI2.png">|

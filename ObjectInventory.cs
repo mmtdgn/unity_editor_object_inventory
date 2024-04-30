@@ -6,7 +6,7 @@ using Newtonsoft.Json;
 using Object = UnityEngine.Object;
 using UnityEditor.SceneManagement;
 
-namespace S.TD
+namespace MD.Editor.Tools
 {
     public class ObjectInventory : EditorWindow
     {

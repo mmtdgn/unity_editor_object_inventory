@@ -10,7 +10,7 @@
 
 ---
 
-|<img src="/Resources/Icon.png">|<img src="/Resources/Favorites.png">|
+|<img src="/Resources/Icon.png">|<img src="/Resources/favorites.png">|
 
 ---
 

@@ -10,6 +10,8 @@
 
 ---
 
+| Inventory Tool | Example |
+|----|---|
 |<img src="/Resources/Icon.png">|<img src="/Resources/favorites.png">|
 
 ---
